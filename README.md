@@ -24,6 +24,6 @@ This library is a simple text object that can serve as the base class for more c
 
 This library follows [Semantic Versioning](http://semver.org).
 
-### 1.0.0, September 22, 2016
+### 0.1.0, September 22, 2016
 
 * Initial release
