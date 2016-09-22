@@ -22,7 +22,7 @@ class Text
      * @var    string  the object's text
      * @since  0.1.0
      */
-    private $text;
+    protected $text;
     
     
     /* !Magic methods */
